@@ -4,7 +4,7 @@ I am just beginning to learn Swift, so I created this simple "Guess the Number" 
 
 The game selects a random number, then prompts the user for a guess, directing them to guess higher or lower until they get the correct number. This game will only work in an Xcode Command Line Project, not a Playground because you cannot take user input in a playground.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/xn4kEyjXO04)
 
 # Development Environment
 
